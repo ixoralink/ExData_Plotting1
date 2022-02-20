@@ -2,10 +2,10 @@
 
 4 R codes for generating each plot and 4 plots corresponding to their specific R codes. Each R code runs independently to generate their corresponding graph. 
 
-plot1.R will generate plot1.png
-plot2.R will generate plot2.png
-plot3.R will generate plot3.png
-plot4.R will generate plot4.png
+plot1.R will generate plot1.png   
+plot2.R will generate plot2.png   
+plot3.R will generate plot3.png  
+plot4.R will generate plot4.png  
 
 
 
